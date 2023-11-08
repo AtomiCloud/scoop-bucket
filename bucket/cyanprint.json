@@ -1,12 +1,12 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AtomiCloud/sulfone.iridium/releases/download/v1.0.1/cyanprint_1.0.1_windows_amd64.tar.gz",
+            "url": "https://github.com/AtomiCloud/sulfone.iridium/releases/download/v1.0.2/cyanprint_1.0.2_windows_amd64.tar.gz",
             "bin": [
                 "cyanprint.exe"
             ],
-            "hash": "5bfaf65a7263736f976b2829315c1bc0cb9755954e05cf2ba57b09a735494e46"
+            "hash": "eee7eee0b6494929aabc6c6f1daaafd243090aa169f39b7c46dbe0c67794b80b"
         }
     },
     "homepage": "https://cyanprint.dev",
