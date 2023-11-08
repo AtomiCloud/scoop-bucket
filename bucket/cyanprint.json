@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AtomiCloud/sulfone.iridium/releases/download/v1.0.0/cyanprint_1.0.0_windows_amd64.tar.gz",
+            "bin": [
+                "cyanprint.exe"
+            ],
+            "hash": "96caf80d2216334b3d82e6c36d6f5f72953d6c0d1b6231aba84feb98049d3969"
+        }
+    },
+    "homepage": "https://cyanprint.dev",
+    "description": "Next-Generation Language-Agnostic Templating Platform"
+}
