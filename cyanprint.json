@@ -1,12 +1,12 @@
 {
-    "version": "4.9.2",
+    "version": "4.10.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AtomiCloud/sulfone.lite/releases/download/v4.9.2/cyanprint_4.9.2_windows_amd64.tar.gz",
+            "url": "https://github.com/AtomiCloud/sulfone.lite/releases/download/v4.10.0/cyanprint_4.10.0_windows_amd64.tar.gz",
             "bin": [
                 "cyanprint.exe"
             ],
-            "hash": "d668f84dd2697ab3d7ba7533f0a04d64dbc617ea07d279ce2119ebeb95900d12"
+            "hash": "d58ec945abb67df57f1bedbbe170a0fe4658655aee9c6bae452a2cd5a6114b98"
         }
     },
     "homepage": "https://cyanprint.dev",
